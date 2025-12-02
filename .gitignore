@@ -1,0 +1,75 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment & config
+*.env
+*.ini
+*.cfg
+*.local
+
+# Distribution / Packaging
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+.wheels/
+*.egg
+
+# Test / Coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyInstaller
+*.spec
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Compiled / Binary
+*.pyd
+*.so
+
+# Project specific (optional)
+logs/
+media/
+uploads/
+staticfiles/
+
